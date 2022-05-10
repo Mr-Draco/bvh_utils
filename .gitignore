@@ -1,0 +1,33 @@
+#
+# folders
+#
+**/assets/*
+**/build/*
+**/bvh/*
+**/cmu/*
+**/documents/*
+**/drafts/*
+**/juncts/*
+**/local/*
+**/logs/*
+**/node_modules/*
+**/output/*
+**/__pycache__/*
+**/sandbox/*
+**/thoughts/*
+**/tmp/*
+**/todos/*
+**/video/*
+
+#
+# file types
+#
+*.DS_store
+*.env
+*.local
+*.sw[a-z]
+
+#
+# files
+#
+package-lock.json
